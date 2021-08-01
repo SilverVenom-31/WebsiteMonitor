@@ -1,6 +1,6 @@
 # WebsiteMonitor
 
-* Quick Automation for monitoring websites, so we can run a script to check if there are any changes in specific website. No need to go personally and check it.
+* Quick Automation for monitoring websites, so we can run a script to check if there are any changes in a specific website. No need to go personally and check it.
 
 
 #### Compatibility: MacOs, Linux
