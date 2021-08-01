@@ -1,11 +1,11 @@
 # WebsiteMonitor
 
-* Quick Automation for monitoring websites, so we can run a script to check if there are any changes in specific website.
+* Quick Automation for monitoring websites, so we can run a script to check if there are any changes in specific website. No need to go personally and check it.
 
 
-### Compatibility: MacOs, Linux
+#### Compatibility: MacOs, Linux
 
-#### Urls of website to be monitored should be stored in a file: $Project_Directory/Docs/ 
+#### Urls of website should be stored in a file path: $Project_Directory/Docs/ 
 
 ### command for executing:
 ./setup.sh $PWD
